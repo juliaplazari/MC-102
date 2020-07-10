@@ -40,14 +40,14 @@ Para o exemplo de entrada acima, a saída será:
 
 ## Dicas de Python 3
 
-Para ler um valor e armazená-lo como inteiro na variável x utilize os comandos input() e int():
+- Para ler um valor e armazená-lo como inteiro na variável x utilize os comandos input() e int():
 
 x = int(input())
 
-Para obter o resultado da divisáo inteira de um número por outro utilize o operador //:
+- Para obter o resultado da divisáo inteira de um número por outro utilize o operador //:
 
 res_int = x // 100
 
-Para obter o resto da divisáo inteira de um número por outro utilize o operador %:
+- Para obter o resto da divisáo inteira de um número por outro utilize o operador %:
 
 res_int = x % 100
