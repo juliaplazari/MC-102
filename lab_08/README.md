@@ -2,7 +2,7 @@
 
 No jogo da forca, o desafio é descobrir uma palavra oculta, tendo como dica o número de letras e podendo palpitar uma letra a cada vez. Para aumentar a emoção, a cada letra que não pertence à palavra, um membro de um boneco palito em uma forca é desenhado. O jogo termina se a palavra foi descoberta ou se o número máximo de tentativas foi atingido e o boneco está completo.
 
-Para implementarmos o jogo, utilizaremos como base uma lista de cinquenta palavras que está armazenada no arquivo [forca.py]().
+Para implementarmos o jogo, utilizaremos como base uma lista de cinquenta palavras que está armazenada no arquivo [forca.py](https://github.com/juliaplazari/MC-102/blob/master/lab_08/forca.py).
 
 Neste mesmo arquivo, há um vetor cenas_forca com as cenas para cada situação do jogo em termos de palpites incorretos.
 
