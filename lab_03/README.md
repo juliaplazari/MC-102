@@ -3,96 +3,14 @@
 Nesta tarefa, vamos praticar comandos repetitivos fazendo desenhos com caracteres ASCII. As formas irão variar de acordo com as dimensões estabelecidas e o caractere especificado para contorno. Observe os exemplos.
 
 **Quadrado:** Deve ser desenhado o contorno de um quadrado, a partir da medida, em termos de número de caracteres, do lado deste quadradado.
-- lado = 3:
 
-***
-* *
-***
-
-- lado = 7:
-&&&&&&&
-&     &
-&     &
-&     &
-&     &
-&     &
-&&&&&&&
-
-**Retângulo:* Deve ser escrito o contorno de um retângulo a partir da medida em número de caracteres da largura e altura deste retângulo.
-- largura = 10, altura = 5:
-&&&
-& &
-& &
-& &
-& &
-& &
-&&&
-
--largura = 5, altura = 5:
-XXXXX
-X   X
-X   X
-X   X
-XXXXX
+**Retângulo:** Deve ser escrito o contorno de um retângulo a partir da medida em número de caracteres da largura e altura deste retângulo.
 
 **Paralelogramo:** Deve ser escrito o contorno de um paralelogramo a partir da medida em número de caracteres da largura e altura deste paralelogramo. Observe que a inclinação da lateral do paralelogramo é de 1 caractere à direita por linha.
-- largura = 4, altura = 3:
-****
- *  *
-  ****
-  
-- largura = 8, altura = 4:
-########
- #      #
-  #      #
-   ########
 
 **Losango:** Deve ser escrito o contorno de um losango a partir da medida em número de caracteres do lado deste losango.
-- lado = 3:
- *
- * *
-*   *
- * *
-  * 
-  
-- lado = 6:
-   @
-    @ @
-   @   @
-  @     @
- @       @
-@         @
- @       @
-  @     @
-   @   @
-    @ @
-     @
-  
-  
+
 **Cruz:** Desenha uma cruz formada pela junção de 5 contornos de quadrados de mesmo tamanho de lado.     
-- lado = 3:
-   ***
-   * *
-*********
-* ** ** *
-*********
-   * *
-   ***
-   
-- lado = 5:
-    XXXXX
-     X   X
-     X   X
-     X   X
-XXXXXXXXXXXXXXX
-X   XX   XX   X
-X   XX   XX   X
-X   XX   XX   X
-XXXXXXXXXXXXXXX
-     X   X
-     X   X
-     X   X
-     XXXXX
 
 ## Descrição da entrada:
 
