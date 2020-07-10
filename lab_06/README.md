@@ -74,8 +74,8 @@ print("O time da casa", dados_partida[0], "marcou", dados_partida[1], "gols.")
 print("O time visitante", dados_partida[3], "marcou", dados_partida[4], "gols.")    
 
 - Para armazenar os dados dos times, você pode usar dicionários. Veja exemplos de algumas ações:
-Inicia dicionário vazio: 
-dic_times = {}
+
+Inicia dicionário vazio: dic_times = {}
 
 Verifica se um time está em um dicionário:
 if "Ibis" in dic_times:
