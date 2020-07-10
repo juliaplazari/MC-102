@@ -8,7 +8,7 @@ Você também deverá apresentar a maior nota obtida. **O uso de listas é opcio
 
 ## Descrição da entrada
 
-das as notas serão consideradas no intervalo de 0 a 10, com uma casa decimal de precisão.
+Todas as notas serão consideradas no intervalo de 0 a 10, com uma casa decimal de precisão.
 
 A primeira linha da entrada conterá a nota de corte para obtenção da medalha de ouro. Por exemplo, se a primeira linha contiver 9.0, todos os participantes que tiverem obtido nota no intervalo de 9.0 (inclusive) a 10 receberão medalha de ouro.
 
