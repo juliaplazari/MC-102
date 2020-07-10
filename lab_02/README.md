@@ -26,10 +26,11 @@ Sua tarefa será implementar uma programa em Python que irá ler dados semelhant
 ## Entrada
 O seu programa deverá ler os seguintes dados, um elemento por linha:
 
--três números tipo float referentes às notas da Carla.
--duas strings Sim ou Nao referentes à aprovação das férias de Maria e Marcos.
--dois inteiros correspondentes aos dias em dezembro em que o 13° salário de Maria e o de Marcos foram liberados.
--dois números tipo float indicando os valores do hotel e das passagens.
+- três números tipo float referentes às notas da Carla.
+- duas strings Sim ou Nao referentes à aprovação das férias de Maria e Marcos.
+- dois inteiros correspondentes aos dias em dezembro em que o 13° salário de Maria e o de Marcos foram liberados.
+- dois números tipo float indicando os valores do hotel e das passagens.
+
 Veja o exemplo abaixo:
 
 10
@@ -53,11 +54,11 @@ Sim
 ## Saída
 Seu programa deverá imprimir uma das saídas abaixo:
 
--SIM!!!
--NAO. As notas da Carla nao foram suficientes.
--NAO. O casal nao esta de ferias.
--NAO. Nenhum 13o salario foi liberado a tempo.
--NAO. O valor total e muito alto.
+- SIM!!!
+- NAO. As notas da Carla nao foram suficientes.
+- NAO. O casal nao esta de ferias.
+- NAO. Nenhum 13o salario foi liberado a tempo.
+- NAO. O valor total e muito alto.
 
 Para o exemplo apresentado na seção Entrada, a saída será:
 
