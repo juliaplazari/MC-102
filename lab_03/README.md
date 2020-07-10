@@ -45,9 +45,9 @@ Caso a entrada tenha dados de acordo com a especificação, um desenho como os d
     
 **Importante:** Não acrescente caracteres em branco ao final das linhas!
 
-Caso o tipo_do_objeto lido não corresponda a um dos elencados acima, deve ser emitida a mensagem Objeto incorreto.
+Caso o tipo_do_objeto lido não corresponda a um dos elencados acima, deve ser emitida a mensagem "Objeto incorreto".
 
-Caso algum número lido seja menor do que 3, deve ser emitida a mensagem Dimensao incorreta. (propositalmente sem acentuação). Caso o tipo do objeto seja inválido, não é necessário ler ou verificar a validade das dimensões.
+Caso algum número lido seja menor do que 3, deve ser emitida a mensagem "Dimensao incorreta". (propositalmente sem acentuação). Caso o tipo do objeto seja inválido, não é necessário ler ou verificar a validade das dimensões.
 
 
 
