@@ -1,4 +1,4 @@
-# Laboratório 9
+# Laboratório 10
 
 Esta tarefa é uma extensão da [tarefa anterior](https://github.com/juliaplazari/MC-102/tree/master/lab_09), em que será simulada a participação com múltiplas cartelas em um jogo de Bingo. 
 A ideia é que você trabalhe agora com listas tridimensionais e veja a importância do uso de funções para estruturar o seu programa.
