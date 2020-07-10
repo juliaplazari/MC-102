@@ -40,24 +40,8 @@ Para os objetos Retângulo e Paralelogramo deverão ser lidas as medidas da larg
 
 O valor para as dimensões deverá ser um número maior ou igual a 3.
 
-Exemplo:
-
-P
-
-:
-
-4
-
-5
-
 ## Descrição da saída:
-Caso a entrada tenha dados de acordo com a especificação, um desenho como os descritos na primeira seção deverá ser exibido. Para o exemplo de entrada fornecido, a saída será:
-
-::::
- :  :
-  :  :
-   :  :
-    ::::
+Caso a entrada tenha dados de acordo com a especificação, um desenho como os descritos na primeira seção deverá ser exibido.
     
 **Importante:** Não acrescente caracteres em branco ao final das linhas!
 
